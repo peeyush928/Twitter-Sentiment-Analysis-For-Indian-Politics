@@ -97,8 +97,8 @@ twitter-sentiment-analysis/
 │
 ├── TSA.ipynb                # Jupyter notebook for sentiment analysis
 ├── kaggle.json              # Kaggle API credentials (not included in the repo)
-├── data/                    # Folder for extracted datasets
-├── models/                  # Folder for storing machine learning models (if applicable)
+├── data/                    # Numpy, Pandas, and Seaborn for datasets
+├── models/                  # Logistic Regression(Machine Learning Model)
 ├── requirements.txt         # Python dependencies
 └── README.md                # Project documentation
 
